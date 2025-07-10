@@ -1,6 +1,6 @@
 [package]
 name = "solana-address-lookup-table-program"
-version = "3.0.0"
+version = "2.2.19"
 description = "Solana Address Lookup Table Program"
 authors = { workspace = true }
 repository = { workspace = true }
